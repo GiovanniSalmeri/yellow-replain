@@ -14,7 +14,7 @@ To uninstall delete the [extension files](extension.ini).
 
 ## How to show a chat
 
-[Re:plain](https://replain.cc/) is a chat service for websites. To use this extension open file system/settings/system.ini and set the value of `ReplainId`. You can find the id of your chat in the second line of the code provided by the Re:plain bot. The chat is shown on every page.
+[Re:plain](https://replain.cc/) is a chat service for websites. To use this extension open file `system/settings/system.ini` and set the value of `ReplainId`. You can find the id of your chat in the second line of the code provided by the Re:plain bot. The chat is shown on every page.
 
 This extension uses an online service and requires on the operator side a Telegram, WhatsApp or Facebook account. You can configure the chat with the Re:plain bot.
 
