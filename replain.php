@@ -1,11 +1,10 @@
 <?php
 // Replain extension, https://github.com/GiovanniSalmeri/yellow-replain
-// Copyright (c) 2020 Giovanni Salmeri
+// Copyright (c) 2020-2021 Giovanni Salmeri
 // This file may be used and distributed under the terms of the public license.
 
 class YellowReplain {
-    const VERSION = "0.8.10";
-    const TYPE = "feature";
+    const VERSION = "0.8.16";
     public $yellow;         //access to API
     
     // Handle initialisation
