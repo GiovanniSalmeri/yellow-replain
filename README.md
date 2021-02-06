@@ -12,7 +12,7 @@ This extension uses an online service and requires on the operator side a Telegr
 
 ## Settings
 
-The following setting must be configured in file system/settings/system.ini:
+The following setting must be configured in file `system/extensions/yellow-system.ini`:
 
 `ReplainId` = your Re:plain id
 
