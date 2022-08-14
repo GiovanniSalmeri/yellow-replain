@@ -13,7 +13,7 @@ class YellowReplain {
     
     // Handle page extra data
     public function onParsePageExtra($page, $name) {
-        $output .= null;
+        $output = null;
         if ($name == "header") {
             $output .= "<script>\n";
             $output .= "document.addEventListener('DOMContentLoaded', function() {\n";
