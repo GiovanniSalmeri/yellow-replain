@@ -2,7 +2,7 @@
 
 Show Re:plain live chat.
 
-<p align="center"><img src="replain-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
+<p align="center"><img src="replain-screenshot.png?raw=true" alt="Screenshot"></p>
 
 ## How to show a chat
 
