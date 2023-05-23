@@ -1,6 +1,6 @@
 # Replain 0.8.16
 
-Show Re:plain live chat.
+Re:plain live chat.
 
 <p align="center"><img src="replain-screenshot.png?raw=true" alt="Screenshot"></p>
 
