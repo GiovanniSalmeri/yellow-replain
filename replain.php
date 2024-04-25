@@ -2,7 +2,7 @@
 // Replain extension, https://github.com/GiovanniSalmeri/yellow-replain
 
 class YellowReplain {
-    const VERSION = "0.8.16";
+    const VERSION = "0.9.1";
     public $yellow;         //access to API
     
     // Handle initialisation
